@@ -62,7 +62,6 @@ In the case of a non-monochrome set, color does not matter, and it is only a mat
 
 
 ## Variants
-The player with the weaker “hand” goes first. That is, if you were to evaluate the small, medium, and large pieces that each player draws at the start of the game as though they were three pieces in the game, whoever has a weaker hand is the starting player. For example, if Anna draws a K3, K2, K1 and Betty draws a B3, Y2, B1, Betty would go first. In the likely case of two non-monochrome runs, whoever has the more valuable 3-pip goes first.
 
 ### Three Player Variant: Confluence
 Instead of fighting for 9 segments, each player fights for 6 segments, 3 against each other player. Lay out three river segments between each pair of players (DIAGRAM HERE). Play proceeds identically to the 2 player game, but the win conditions are different. Continue play until all river segments have been claimed.
