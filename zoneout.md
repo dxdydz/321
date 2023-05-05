@@ -1,4 +1,4 @@
-# ZoneOut
+# Zoning Out
 
 A city building game for 1 or more players.
 
