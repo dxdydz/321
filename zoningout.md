@@ -15,7 +15,7 @@ Place the pyramids in the bag. If using multiple bags, sort the pyramids by size
 
 During the game, you will be drawing random pyramids and adding them to your city's grid. Pyramids represent different municipal building zones. Red is Residential ("redsidential"), Yellow is Industrial ("industriyellow"), Blue is Commercial ("bluemercial"), and Green is Parks ("green space"). Black pyramids represent certain necessary, but perhaps unpleasant to be next to, facilities such as wastewater treatment plants and city dumps.
 
-Large pyramids are large developments, and smaller ones are smaller. You will be building out your city subject to certain constraints. Generally, you want colors to be grouped together with the exception of the black pieces, which you generally want touching as few pieces as possible. Depending on which scoring rules you're playing with, these rules of thumb can vary, however.
+Large pyramids are large developments, and smaller ones are smaller. You will be building out your city subject to certain constraints. Generally, you want colors to be grouped together with the exception of the black pieces, which you usually want touching as few pieces as possible. Depending on which scoring rules you're playing with, these rules of thumb can vary, however.
 
 The scoring rules you choose will have **target scores** written on them. The sum of all three target scores will determine the score you need to win.
 
@@ -64,3 +64,73 @@ Instead of drawing pieces randomly, mix up the three sizes during setup and lay 
 ### Small City
 
 This variant is good for a quicker, more relaxed game. Play with only 2 trios per color, and with only 2 special scoring rules. 
+
+## Scoring Rules
+
+### 15-Minute City
+
+4 points for every red piece that is next to a blue, green, **and** yellow piece.
+
+### Density Bonusing
+
+-1 point for the width or height of your city in pyramids, whichever is larger.
+
+### Rainbow Rows
+
+5 points for every row (relative to player's view) that has at least one piece in all five colors in it.
+
+### Colorful Columns
+
+2 points for every column with at least three different colors in it. -3 points for any column that has less than 3 colors in it.
+
+### Overshadowed
+
+For every small piece, -1 point for any large pieces next to it.
+
+### Suburbia
+
+1 point for every red piece on the edge of the city.
+
+### Little Boxes
+
+3 points for every 2x2 square of red pieces within your city. Squares may overlap.
+
+### Shopping District
+
+3 points for every 2x2 square of blue pieces within your city. Squares may overlap.
+
+### Linear Park
+
+1 point for every piece in your longest line (horizontal or vertical) of green pieces. Only contiguous pieces within a single row or column count.
+
+### "We Compost"
+
++(black size) points for any black next to a red piece.
+
+### Garden City
+
+2 points for every redsidential zone next to a park.
+
+### Piazzas
+
+1 point for every different color around any fully enclosed empty space within your city.
+
+### Canadian Style
+
+When playing with this card, large pieces may be placed adjacent to other large pieces. Score 2 points for every large piece in your biggest group of large pieces, disregarding color.
+
+### Factory Un-fun
+
+-2 points for every industriyellow next to a redsidential zone.
+
+### Lines of Sight
+
+1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less or more than 2 large pieces in it.
+
+### Clusters
+
+3 points for every group consisting exactly of a small, medium, and large of a single color (red, blue, green, or yellow), and no other pieces. -1 point for every group not composed thusly.
+
+### City Wall
+
+1 point for every large piece on the edge of the city. -2 points for every interior large.
