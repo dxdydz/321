@@ -26,7 +26,7 @@ Every turn you will:
 - Draw a random pyramid of that size (by feel if using a single bag)
 - Place that pyramid next to a pyramid that's already been placed -- except for your first turn, where there will of course be no other pyramids in play.
 - **IMPORTANT: You may NEVER place a pyramid next to another pyramid of the same size**
-- **IMPORTANT: Diagonals do not exist in ZoneOut.** You may never place diagonally, and all scoring rules ignore diagonals.
+- **IMPORTANT: Diagonals do not exist in Zoning Out.** You may never place diagonally, and all scoring rules ignore diagonals.
 - In the very unlikely event that you are unable to place the piece you drew, due to no legal, valid spots. Return that piece and draw a piece of a different size.
 
 When you have placed all your pyramids, proceed to scoring your new city.
@@ -38,6 +38,8 @@ Scoring is as follows:
 - Now score your black pyramids. Black pyramids score negatively. They subtract a value equal to their (size) x (the number of pyramids next to them). So, a 3-pip (large) black pyramid with two other pyramids next to it (of any color), would score -(3\*2) = -6 points
 - Next, score your three special scoring rules. These scoring rules will have the details of how they score written on them.
 - Finally, tally up your score. If your score is equal to or higher than the sum of the target scores on all three scoring rules, you win. If it's lower, you've lost.
+
+![Basic scoring example](images/basic_scoring.svg)
 
 ## Multiplayer
 
