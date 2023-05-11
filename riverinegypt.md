@@ -1,3 +1,5 @@
+<img src="images/riverheader.svg" width=600>
+
 # A River in Egypt
 2 players
 15-30 minutes
