@@ -77,69 +77,109 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 4 points for every red piece that is next to a blue, green, **and** yellow piece.
 
+**Target Score**: 13
+
 ### Density Bonusing
 
--1 point for the width or height of your city in pyramids, whichever is larger.
+-1 point for the total width or height of your city in pyramids, whichever is larger.
+
+**Target Score**: -4
 
 ### Rainbow Rows
 
 5 points for every row (relative to player's view) that has at least one piece in all five colors in it.
 
+**Target Score**: 15
+
 ### Colorful Columns
 
 2 points for every column with at least three different colors in it. -3 points for any column that has less than 3 colors in it.
+
+**Target Score**: 15
 
 ### Overshadowed
 
 For every small piece, -1 point for any large pieces next to it.
 
-### Suburbia
-
-1 point for every red piece on the edge of the city.
+**Target Score**: -5
 
 ### Little Boxes
 
 3 points for every 2x2 square of red pieces within your city. Squares may overlap.
 
+**Target Score**: 9
+
 ### Shopping District
 
 3 points for every 2x2 square of blue pieces within your city. Squares may overlap.
+
+**Target Score**: 9
 
 ### Linear Park
 
 1 point for every piece in your longest line (horizontal or vertical) of green pieces. Only contiguous pieces within a single row or column count.
 
+**Target Score**: 13
+
 ### "We Compost"
 
 +(black size) points for any black next to a red piece.
+
+**Target Score**: 33
 
 ### Garden City
 
 2 points for every redsidential zone next to a park.
 
+**Target Score**: 17
+
 ### Piazzas
 
 1 point for every different color around any fully enclosed empty space within your city.
+
+**Target Score**: 23
 
 ### Canadian Style
 
 When playing with this card, large pieces may be placed adjacent to other large pieces. Score 2 points for every large piece in your biggest group of large pieces, disregarding color.
 
+**Target Score**: 17
+
 ### Factory Un-fun
 
--2 points for every industriyellow next to a redsidential zone.
+-1 point for every non-yellow piece next to a yellow piece.
+
+**Target Score**: 4
 
 ### Lines of Sight
 
 1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less or more than 2 large pieces in it.
 
+**Target Score**: 4
+
 ### Clusters
 
 3 points for every group consisting exactly of a small, medium, and large of a single color (red, blue, green, or yellow), and no other pieces. -1 point for every group not composed thusly.
 
-### City Wall
+**Target Score**: 9
 
-1 point for every large piece on the edge of the city. -2 points for every interior large.
+### Bigger on the Outside
+
+2 points for every large piece in the rows and columns farthest to the top and bottom, left and right, respectively.
+
+**Target Score**: 15
+
+### Mixed-Use Development
+
+For this game, you may place a second piece on top of an existing piece when placing. For the purposes of all other rules, these two pieces are considered next to each other (so you may never, for example, place a medium on top of another medium). Both pieces are also considered next to the four spaces orthogonal to their space.
+
+**Target Score**: 7
+
+### Room to make a Big Mistake
+
++1 point for every unoccupied space next to a red piece.
+
+**Target Score**: 21
 
 ## Scoring Sheet
 
