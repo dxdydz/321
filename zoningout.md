@@ -77,6 +77,8 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 4 points for every red piece that is next to a blue, green, **and** yellow piece.
 
+<img src="images/15min.svg" width=300>
+
 **Target Score**: 13
 
 ### Density Bonusing
@@ -85,11 +87,15 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 **Target Score**: -4
 
+<img src="images/density.svg" width=300>
+
 ### Rainbow Rows
 
 5 points for every row (relative to player's view) that has at least one piece in all five colors in it.
 
 **Target Score**: 15
+
+<img src="images/rainbow_rows.svg" width=300>
 
 ### Colorful Columns
 
