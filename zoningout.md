@@ -47,7 +47,7 @@ Scoring is as follows:
 
 ## Multiplayer
 
-Though designed as a single player experience, there are a couple ways to play ZoneOut with more than one player.
+Though designed as a single player experience, there are a couple ways to play Zoning Out with more than one player.
 
 ### Co-operative
 
@@ -129,19 +129,19 @@ For every small piece, -1 point for any large pieces next to it.
 
 ### "We Compost"
 
-+(black size) points for any black next to a red piece.
+Every black piece next to at least one red piece scores points equal to the black piece's size. e.g., a large black that is next to one or more reds would score +3 points.
 
 **Target Score**: 33
 
 ### Garden City
 
-2 points for every redsidential zone next to a park.
+2 points for every red residential zone next to a green park.
 
 **Target Score**: 17
 
 ### Piazzas
 
-1 point for every different color around any fully enclosed empty space within your city.
+1 point for every different color (including black) around any fully enclosed empty space within your city.
 
 **Target Score**: 23
 
@@ -177,7 +177,7 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 ### Mixed-Use Development
 
-For this game, you may place a second piece on top of an existing piece when placing. For the purposes of all other rules, these two pieces are considered next to each other (so you may never, for example, place a medium on top of another medium). Both pieces are also considered next to the four spaces orthogonal to their space.
+For this game, you may place a second piece on top of an existing piece when placing. For the purposes of all other rules, these two pieces are considered next to each other (so you may never, for example, place a medium on top of another medium). Both pieces are also considered next to the four spaces orthogonal to their space. For legibility, you should arrange the pieces such that the smaller piece is stacked on top of the larger piece.
 
 **Target Score**: 7
 
