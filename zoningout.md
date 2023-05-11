@@ -39,7 +39,11 @@ Scoring is as follows:
 - Next, score your three special scoring rules. These scoring rules will have the details of how they score written on them.
 - Finally, tally up your score. If your score is equal to or higher than the sum of the target scores on all three scoring rules, you win. If it's lower, you've lost.
 
-![Basic scoring example](images/basic_scoring.svg)
+> **Scoring Example**
+> In this example game (played using fewer than normal pyramids for illustrative purposes), we would score first the largest groups in each of the four colors: Red = 4, Yellow = 3, Green = 6, and Blue = 2. This would give us 15 points. Then we subtract all the points from black pieces: -2 + -1 + -6 + -6 + -2 + -6 = -23. We get a basic score of -8! Note that two black pieces next to each other both still count against their tallies.
+<img src="images/basic_scoring.svg" width="500">
+
+
 
 ## Multiplayer
 
@@ -136,3 +140,23 @@ When playing with this card, large pieces may be placed adjacent to other large 
 ### City Wall
 
 1 point for every large piece on the edge of the city. -2 points for every interior large.
+
+## Scoring Sheet
+
+You can use this table as a template for calculating your scores:
+
+... | Score | 
+----- | ------ |
+Residential (red) | |
+Industrial (yellow) | | 
+Commercial (blue) | | 
+Green space (green) | |
+**Colors SUM** | |
+Black | |
+**(Colors - Black) Subtotal** | |
+Scoring Rule #1 | |
+Scoring Rule #2 | |
+Scoring Rule #3 | |
+**Scoring Rules SUM** | |
+*Scoring Rules Targets SUM* | |
+**Total** | |
