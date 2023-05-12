@@ -75,27 +75,27 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 ### 15-Minute City
 
-4 points for every red piece that is next to a blue, green, **and** yellow piece.
-
 <img src="images/15min.svg" width=300>
+
+4 points for every red piece that is next to a blue, green, **and** yellow piece.
 
 **Target Score**: 13
 
 ### Density Bonusing
 
+<img src="images/density.svg" width=300> 
+
 -1 point for the total width or height of your city in pyramids, whichever is larger.
 
 **Target Score**: -4
 
-<img src="images/density.svg" width=300> 
-
 ### Rainbow Rows
+
+<img src="images/rainbow_rows.svg" width=300>
 
 5 points for every row (relative to player's view) that has at least one piece in all five colors in it.
 
 **Target Score**: 15
-
-<img src="images/rainbow_rows.svg" width=300>
 
 ### Colorful Columns
 
