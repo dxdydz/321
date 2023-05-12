@@ -141,7 +141,7 @@ For every small piece, -1 point for any large pieces next to it.
 
 Every black piece next to at least one red piece scores points equal to the black piece's size. e.g., a large black that is next to one or more reds would score +3 points.
 
-**Target Score**: 22
+**Target Score**: 19
 
 ### Garden City
 
@@ -195,7 +195,7 @@ For this game, you may place a second piece on top of an existing piece when pla
 
 +1 point for every unoccupied space next to a red piece.
 
-**Target Score**: 21
+**Target Score**: 17
 
 ## Scoring Sheet
 
