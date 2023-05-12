@@ -99,11 +99,15 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 ### Colorful Columns
 
+<img src="images/colorful_columns.svg" width=300>
+
 2 points for every column with at least three different colors in it. -3 points for any column that has less than 3 colors in it.
 
 **Target Score**: 15
 
 ### Overshadowed
+
+<img src="images/overshadowed.svg" width=300>
 
 For every small piece, -1 point for any large pieces next to it.
 
@@ -111,17 +115,23 @@ For every small piece, -1 point for any large pieces next to it.
 
 ### Little Boxes
 
+<img src="images/little_boxes.svg" width=300>
+
 3 points for every 2x2 square of red pieces within your city. Squares may overlap.
 
 **Target Score**: 9
 
 ### Shopping District
 
+<img src="images/shopping_district.svg" width=300>
+
 3 points for every 2x2 square of blue pieces within your city. Squares may overlap.
 
 **Target Score**: 9
 
 ### Linear Park
+
+<img src="images/linear_park.svg" width=300>
 
 1 point for every piece in your longest line (horizontal or vertical) of green pieces. Only contiguous pieces within a single row or column count.
 
