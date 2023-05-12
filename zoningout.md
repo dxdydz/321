@@ -87,7 +87,7 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 **Target Score**: -4
 
-<img src="images/density.svg" width=300>
+<img src="images/density.svg" width=300> 
 
 ### Rainbow Rows
 
