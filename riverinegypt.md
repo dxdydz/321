@@ -15,6 +15,8 @@
 - Each player draws a large, a medium, and a small. This forms their hand.
 - Choose a player to go first.
 
+<img src="images/river_setup.svg" width="600">
+
 ## Gameplay
 - Players take turns
 - On your turn you do the following, in order:
@@ -23,7 +25,7 @@
   - You **must** draw a replacement piece, if possible
 
 ### Playing a Piece
-- To play a piece from your hand, move one piece from your hand to an available spot on your side of an unclaimed river segment. Each river segment has space for 2 pieces on either side. If you have already played 2 pieces to a river segment, you may not play a third. If your opponent has already claimed a river segment, you may no longer play any pieces to that segment.
+- To play a piece from your hand, move one piece from your hand to an available spot on your side of an unclaimed river segment. Each river segment has space for 2 pieces on each player's side of the river. If you have already played 2 pieces to a river segment, you may not play a third. If your opponent has already claimed a river segment, you may no longer play any pieces to that segment.
 - You must play a piece, if able. If you are unable to play a piece, due to all segments either having been claimed or having 2 of your pieces already played to them, then you do not play any piece. You may still claim river segments on your turn, however.
 
 ### Claim a River Segment
@@ -33,6 +35,9 @@
 - If you are able to prove that your opponent would be unable to produce a **stronger** set than the one you've played, you may claim that segment.
 - When you claim a segment, move the river piece (and its card) back behind your pieces, as though you are playing it as a third piece. This makes it clear that the segment is no longer in dispute.
 - The relative strength of three-piece sets is described in the section [Comparing Sets of Pieces](#comparing-sets-of-pieces)
+
+> Example of claiming a river segment. Since the player on the bottom already has the strongest possible set of three pieces, they can claim this segment even though the player to the top has not yet played two pieces to this segment. To indicate that this segment has been claimed and can no longer be played to, the bottom player moves the river segment piece and the card it is on down behind their pieces.
+<img src="images/river_claiming.svg" width="400">
 
 ### Draw Replacement Piece
 - Draw a piece to replace the one you played. It must be the **same size**.
@@ -62,6 +67,8 @@ In the event that the two players both have the same type of set, it is resolved
 
 In the case of a non-monochrome set, color does not matter, and it is only a matter of which player can stake their claim first.
 
+> Visual key showing the precedence of different sets and colors.
+<img src="images/river_handkey.svg" width="600">
 
 ## Variants
 
