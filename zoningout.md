@@ -27,7 +27,7 @@ Every turn you will:
 - Place that pyramid next to a pyramid that's already been placed -- except for your first turn, where there will of course be no other pyramids in play.
 - **IMPORTANT: You may NEVER place a pyramid next to another pyramid of the same size**
 - **IMPORTANT: Diagonals do not exist in Zoning Out.** You may never place diagonally, and all scoring rules ignore diagonals.
-- In the very unlikely event that you are unable to place the piece you drew, due to no legal, valid spots. Return that piece and draw a piece of a different size.
+- In the unlikely event that you are unable to place the piece you drew due to there being no legal, valid placements, return that piece and draw a piece of a different size.
 
 When you have placed all your pyramids, proceed to scoring your new city.
 
@@ -36,13 +36,14 @@ When you have placed all your pyramids, proceed to scoring your new city.
 Scoring is as follows:
 - Find your largest connected group (remember: no diagonals) in each of red, blue, green, and yellow. Each of these groups scores 1 point for every pyramid within it. 
 - Now score your black pyramids. Black pyramids score negatively. They subtract a value equal to their (size) x (the number of pyramids next to them). So, a 3-pip (large) black pyramid with two other pyramids next to it (of any color), would score -(3\*2) = -6 points
-- Next, score your three special scoring rules. These scoring rules will have the details of how they score written on them.
+- Next, score your three [special scoring rules](#special-scoring-rules). These scoring rules will have the details of how they score written on them.
 - Finally, tally up your score. If your score is equal to or higher than the sum of the target scores on all three scoring rules, you win. If it's lower, you've lost.
 
 > **Scoring Example**
-> In this example game (played using fewer than normal pyramids for illustrative purposes), we would score first the largest groups in each of the four colors: Red = 4, Yellow = 3, Green = 6, and Blue = 2. This would give us 15 points. Then we subtract all the points from black pieces: -2 + -1 + -6 + -6 + -2 + -6 = -23. We get a basic score of -8! Note that two black pieces next to each other both still count against their tallies.
+> In this example game (played using fewer than normal pyramids for illustrative purposes), we would score first the largest groups in each of the four colors: Red = 4, Yellow = 3, Green = 6, and Blue = 2. This would give us 15 points. Then we subtract all the points from black pieces: -2 + -1 + -6 + -6 + -2 + -6 = -23. We get a basic score of -8! Note that two black pieces next to each other both still count against their tallies. After calculating this base score, we would then score the special scoring rules selected for our game.
 <img src="images/basic_scoring.svg" width="500">
 
+There is a [scoring sheet](#scoring-sheet) at the end of this document that you can use for calculating your score.
 
 
 ## Multiplayer
@@ -71,7 +72,16 @@ Instead of drawing pieces randomly, mix up the three sizes during setup and lay 
 
 This variant is good for a quicker, more relaxed game. Play with only 2 trios per color, and with only 2 special scoring rules. 
 
-## Scoring Rules
+## Special Scoring Rules
+
+During your game you will be playing with three of the special scoring rules listed below. For the solo and co-operative game modes, a target score is listed. Your goal is to build a city that scores as much or more than the target scores of all three special scoring rules added together. For convenince, the titles of the rules are also listed in this table here with links to the rules themselves. 
+
+[15-Minute City](#15-minute-city) | [Density Bonusing](#density-bonusing) | [Rainbow Rows](#rainbow-rows) |
+[Colorful Columns](#colorful-columns) | [Overshadowed](#overshadowed) | [Little Boxes](#little-boxes) |
+[Shopping District](#shopping-district) | [Linear Park](#linear-park) | ["We Compost"](#we-compost) |
+[Garden City](#garden-city) | [Piazzas](#piazzas) | [Canadian Style](#canadian-style) |
+[Factory Un-fun](#factory-un-fun) | [Lines of Sight](#lines-of-sight) | [Clusters](#clusters) |
+[Bigger on the Outside](#bigger-on-the-outside) | [Mixed-Use Development](#mixed-use-development) | [Room to make a Big Mistake](#room-to-make-a-big-mistake)
 
 ### 15-Minute City
 
@@ -139,11 +149,15 @@ For every small piece, -1 point for any large pieces next to it.
 
 ### "We Compost"
 
+<img src="images/we_compost.svg" width=300>
+
 Every black piece next to at least one red piece scores points equal to the black piece's size. e.g., a large black that is next to one or more reds would score +3 points.
 
 **Target Score**: 19
 
 ### Garden City
+
+<img src="images/garden_city.svg" width=300>
 
 2 points for every red residential zone next to a green park.
 
@@ -151,11 +165,15 @@ Every black piece next to at least one red piece scores points equal to the blac
 
 ### Piazzas
 
+<img src="images/piazzas.svg" width=300>
+
 1 point for every different color (including black) around any fully enclosed empty space within your city.
 
 **Target Score**: 23
 
 ### Canadian Style
+
+<img src="images/canadian_style.svg" width=300>
 
 When playing with this card, large pieces may be placed adjacent to other large pieces. Score 2 points for every large piece in your biggest group of large pieces, disregarding color.
 
@@ -163,11 +181,15 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 ### Factory Un-fun
 
+<img src="images/factory_unfun.svg" width=300>
+
 -1 point for every non-yellow piece next to a yellow piece.
 
 **Target Score**: 4
 
 ### Lines of Sight
+
+<img src="images/lines_of_sight.svg" width=300>
 
 1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less or more than 2 large pieces in it.
 
@@ -175,11 +197,15 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 ### Clusters
 
+<img src="images/clusters.svg" width=300>
+
 3 points for every group consisting exactly of a small, medium, and large of a single color (red, blue, green, or yellow), and no other pieces. -1 point for every group not composed thusly.
 
 **Target Score**: 9
 
 ### Bigger on the Outside
+
+<img src="images/bigger_on_the_outside.svg" width=300>
 
 2 points for every large piece in the rows and columns farthest to the top and bottom, left and right, respectively.
 
@@ -187,11 +213,15 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 ### Mixed-Use Development
 
+<img src="images/mixed_use.svg" width=300>
+
 For this game, you may place a second piece on top of an existing piece when placing. For the purposes of all other rules, these two pieces are considered next to each other (so you may never, for example, place a medium on top of another medium). Both pieces are also considered next to the four spaces orthogonal to their space. For legibility, you should arrange the pieces such that the smaller piece is stacked on top of the larger piece.
 
 **Target Score**: 7
 
 ### Room to make a Big Mistake
+
+<img src="images/room_to_make_a_big_mistake.svg" width=300>
 
 +1 point for every unoccupied space next to a red piece.
 
