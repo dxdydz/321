@@ -1,3 +1,5 @@
+<img src="images/loveheader.svg" width="600">
+
 # Love Triangle
 
 👥 Three players  
@@ -16,7 +18,9 @@ The pieces in front of each player represent facets of their outward persona. Ea
 2. Form a bank in the center of the table with the remainder of the pieces.
 
 ## Gameplay
-On your turn, roll the white pyramid die. Depending on what it shows, you can either give a piece to the bank, take a piece from the bank, or exchange a piece with the bank. **You may never have fewer than 3 pieces in front of you**, and **you may never have two identical pieces in front of you**.
+On your turn, roll the white pyramid die. Depending on what it shows, you can either give a piece to the bank, take a piece from the bank, or exchange a piece with the bank. You must always obey two basic constraints:
+1. **You may never have fewer than 3 pieces in front of you**, and 
+2. **You may never have two identical pieces in front of you**.
 
 If the die shows <img src="images/PyramidDieSmall.svg" width="35">, <img src="images/PyramidDieMedium.svg" width="35">, or <img src="images/PyramidDieLarge.svg" width="35">, you must either:
 - **Take a piece** of the size shown from the bank.
