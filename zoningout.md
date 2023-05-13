@@ -76,7 +76,7 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 ## Special Scoring Rules
 
-During your game you will be playing with three of the special scoring rules listed below. For the solo and co-operative game modes, a target score is listed. Your goal is to build a city that scores as much or more than the target scores of all three special scoring rules added together. For convenince, the titles of the rules are also listed in here with links to the rules themselves. To randomly select scoring rules, you could write these titles on slips of paper and draw three from a hat.
+During your game you will be playing with three of the special scoring rules listed below. For the solo and co-operative game modes, a target score is listed. Your goal is to build a city that scores as much or more than the target scores of all three special scoring rules added together. For convenience, the titles of the rules are also listed in here with links to the rules themselves. To randomly select scoring rules, you could write these titles on slips of paper and draw three from a hat.
 
 [15-Minute City](#15-minute-city) | [Density Bonusing](#density-bonusing) | [Rainbow Rows](#rainbow-rows) |
 [Colorful Columns](#colorful-columns) | [Overshadowed](#overshadowed) | [Little Boxes](#little-boxes) |
@@ -84,6 +84,8 @@ During your game you will be playing with three of the special scoring rules lis
 [Garden City](#garden-city) | [Piazzas](#piazzas) | [Canadian Style](#canadian-style) |
 [Factory Un-fun](#factory-un-fun) | [Lines of Sight](#lines-of-sight) | [Clusters](#clusters) |
 [Bigger on the Outside](#bigger-on-the-outside) | [Mixed-Use Development](#mixed-use-development) | [Room to make a Big Mistake](#room-to-make-a-big-mistake)
+
+---
 
 ### 15-Minute City
 
@@ -93,6 +95,8 @@ During your game you will be playing with three of the special scoring rules lis
 
 **Target Score**: 13
 
+---
+
 ### Density Bonusing
 
 <img src="images/density.svg" width=300> 
@@ -100,6 +104,8 @@ During your game you will be playing with three of the special scoring rules lis
 -1 point for the total width or height of your city in pyramids, whichever is larger.
 
 **Target Score**: -4
+
+---
 
 ### Rainbow Rows
 
@@ -109,6 +115,8 @@ During your game you will be playing with three of the special scoring rules lis
 
 **Target Score**: 15
 
+---
+
 ### Colorful Columns
 
 <img src="images/colorful_columns.svg" width=300>
@@ -116,6 +124,8 @@ During your game you will be playing with three of the special scoring rules lis
 2 points for every column with at least three different colors in it. -3 points for any column that has less than 3 colors in it.
 
 **Target Score**: 15
+
+---
 
 ### Overshadowed
 
@@ -125,6 +135,8 @@ For every small piece, -1 point for any large pieces next to it.
 
 **Target Score**: -5
 
+---
+
 ### Little Boxes
 
 <img src="images/little_boxes.svg" width=300>
@@ -132,6 +144,8 @@ For every small piece, -1 point for any large pieces next to it.
 3 points for every 2x2 square of red pieces within your city. Squares may overlap.
 
 **Target Score**: 9
+
+---
 
 ### Shopping District
 
@@ -141,6 +155,8 @@ For every small piece, -1 point for any large pieces next to it.
 
 **Target Score**: 9
 
+---
+
 ### Linear Park
 
 <img src="images/linear_park.svg" width=300>
@@ -148,6 +164,8 @@ For every small piece, -1 point for any large pieces next to it.
 1 point for every piece in your longest line (horizontal or vertical) of green pieces. Only contiguous pieces within a single row or column count.
 
 **Target Score**: 13
+
+---
 
 ### "We Compost"
 
@@ -157,6 +175,8 @@ Every black piece next to at least one red piece scores points equal to the blac
 
 **Target Score**: 19
 
+---
+
 ### Garden City
 
 <img src="images/garden_city.svg" width=300>
@@ -164,6 +184,8 @@ Every black piece next to at least one red piece scores points equal to the blac
 2 points for every red residential zone next to a green park.
 
 **Target Score**: 17
+
+---
 
 ### Piazzas
 
@@ -173,6 +195,8 @@ Every black piece next to at least one red piece scores points equal to the blac
 
 **Target Score**: 23
 
+---
+
 ### Canadian Style
 
 <img src="images/canadian_style.svg" width=300>
@@ -180,6 +204,8 @@ Every black piece next to at least one red piece scores points equal to the blac
 When playing with this card, large pieces may be placed adjacent to other large pieces. Score 2 points for every large piece in your biggest group of large pieces, disregarding color.
 
 **Target Score**: 17
+
+---
 
 ### Factory Un-fun
 
@@ -189,6 +215,8 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 **Target Score**: 4
 
+---
+
 ### Lines of Sight
 
 <img src="images/lines_of_sight.svg" width=300>
@@ -196,6 +224,8 @@ When playing with this card, large pieces may be placed adjacent to other large 
 1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less or more than 2 large pieces in it.
 
 **Target Score**: 4
+
+---
 
 ### Clusters
 
@@ -205,6 +235,8 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 **Target Score**: 9
 
+---
+
 ### Bigger on the Outside
 
 <img src="images/bigger_on_the_outside.svg" width=300>
@@ -213,6 +245,8 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 **Target Score**: 15
 
+---
+
 ### Mixed-Use Development
 
 <img src="images/mixed_use.svg" width=300>
@@ -220,6 +254,8 @@ When playing with this card, large pieces may be placed adjacent to other large 
 For this game, you may place a second piece on top of an existing piece when placing. For the purposes of all other rules, these two pieces are considered next to each other (so you may never, for example, place a medium on top of another medium). Both pieces are also considered next to the four spaces orthogonal to their space. For legibility, you should arrange the pieces such that the smaller piece is stacked on top of the larger piece.
 
 **Target Score**: 7
+
+---
 
 ### Room to make a Big Mistake
 
