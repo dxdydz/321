@@ -58,7 +58,7 @@ Sets of three pieces are evaluated based on their strength to establish river se
   - **Run**: Three pieces of all different sizes and all different colors
   - **Pair**: Two pieces of the same size, and different colors
 
-In the event that the two players both have the same type of set, it is resolved based first on size, then color. So, a monochrome triplet of size 3 always beats a monochrome triplet of size 2. If the type and size are equivalent, color is used in the order (from best to worst):
+In the event that the two players both have the same type of set, it is resolved based first on size, then color. So, a monochrome pair of size 3 always beats a monochrome pair of size 2. If the type and size are equivalent, color is used in the order (from best to worst):
   1. Black
   2. Red
   3. Yellow
