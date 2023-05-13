@@ -50,13 +50,13 @@ The game ends immediately when one player has either:
 That player is the winner.
 
 ## Comparing Sets of Pieces
-- Sets of three pieces are evaluated based on their strength to establish river segment claims. The set type takes precedence, followed by size, and finally (for monochrome sets only): color. The set types are as follows, in order from best to worst:
-  - Monochrome triplet: Three identical pieces of the same size and color
-  - Monochrome run: Three pieces in the same color, all different sizes
-  - Monochrome pair: Two pieces of the same size and color, with a third piece of any size or color.
-  - Triplet: Three pieces of the same size, but different colors
-  - Run: Three pieces of all different sizes and all different colors
-  - Pair: Two pieces of the same size, and different colors
+Sets of three pieces are evaluated based on their strength to establish river segment claims. The set type takes precedence, followed by size, and finally (for monochrome sets only): color. The set types are as follows, in order from best to worst:
+  - **Monochrome triplet**: Three identical pieces of the same size and color
+  - **Monochrome run**: Three pieces in the same color, all different sizes
+  - **Monochrome pair**: Two pieces of the same size and color, with a third piece of any size or color.
+  - **Triplet**: Three pieces of the same size, but different colors
+  - **Run**: Three pieces of all different sizes and all different colors
+  - **Pair**: Two pieces of the same size, and different colors
 
 In the event that the two players both have the same type of set, it is resolved based first on size, then color. So, a monochrome triplet of size 3 always beats a monochrome triplet of size 2. If the type and size are equivalent, color is used in the order (from best to worst):
   1. Black
@@ -78,6 +78,8 @@ Instead of fighting for 9 segments, each player fights for 6 segments, 3 against
 If one player has won more segments than both their opponents, they are the winner, eg, Anna won 2 segments against Betty and also 2 segments against Constance.
 In the event of a three-way tie, players form sets from the three river segments the each won. Whichever player has the strongest set of river pieces is the winner. In the unlikely event that there is still a tie, victory is shared.
 
+> 3 Player "Confluence" Variant Setup
+<img src="images/river_confluence.svg" width="600">
 
 ### Other colors
 The rules are written for the “rainbow treehouse” colors, as they are the ones most players are likely to have, but there is nothing intrinsic to these colors. You can play with any five colors, provided you and the other player can agree upon which colors beat which colors prior to play. For Xeno colors, consider the order Orange, Cyan, Purple, White, Clear. 
