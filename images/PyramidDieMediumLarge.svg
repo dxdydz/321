@@ -4,6 +4,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="41.954px" height="40.726px" viewBox="0 0 41.954 40.726" style="enable-background:new 0 0 41.954 40.726;"
 	 xml:space="preserve">
+<rect width="100%" height="100%" fill="white"/>
 <g id="MediumLarge">
 	<g>
 		<g>
@@ -34,7 +35,6 @@
 				c0.19,0.277,0.232,0.629,0.112,0.943l-6.24,16.288C11.542,32.644,11.163,32.903,10.74,32.903z M6.317,16.617l4.452,12.341
 				l4.729-12.341H6.317z"/>
 			<g>
-<rect width="100%" height="100%" fill="white"/>
 				<path style="fill:#231F20;" d="M13.3,18.638c0-0.656-0.532-1.188-1.188-1.188c-0.657,0-1.188,0.532-1.188,1.188
 					s0.531,1.188,1.188,1.188C12.768,19.825,13.3,19.294,13.3,18.638"/>
 			</g>
