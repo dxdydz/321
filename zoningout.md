@@ -1,3 +1,5 @@
+<img src="images/zoningoutheader.svg" width="600">
+
 # Zoning Out
 
 A city building game for 1 or more players.
@@ -66,7 +68,7 @@ Play continues this way until all pieces have been placed. Players score their o
 
 ### APC: Analysis Paralysis Commission
 
-Instead of drawing pieces randomly, mix up the three sizes during setup and lay them out into three lines. During play, you can take the front piece from any line. Warning: playing like this can turn the game into a *very* think-y puzzle. It can also make the game easier to win, so if you find you are winning too often, you can up the challenge by increasing the target score by a few points whenever you play.
+Instead of drawing pieces randomly, shuffle the three sizes separately and lay them out into three lines, one line for each size of piece. During play, you can take the front piece from any line. Warning: playing like this can turn the game into a *very* think-y puzzle. It can also make the game easier to win, so if you find you are winning too often, you can up the challenge by increasing the target score by a few points whenever you play.
 
 ### Small City
 
