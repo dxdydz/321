@@ -7,20 +7,20 @@
 ## Equipment
 - 3 trios in five colors
 - Bag for random drawing (N.B., three bags are even nicer, if you have them. Bowls work well if players can be trusted not to peek.)
-- (Optional, but nice to have) 9 playing cards or coasters or beer mats or similar
+- (Optional, but recommended) 9 playing cards or coasters or beer mats or similar
 
 ## Setup
 - Place all the pyramids in the bag. If using three bags, separate the pyramids by size, one size for each bag.
-- Draw 3 large, 3 medium, and 3 small pieces from the bag. Place these in a line between the two players. If using playing cards, lay the playing cards face down in a line first and place the pieces on top of them, one piece per card.
-- Each player draws a large, a medium, and a small. 
+- Draw 3 large, 3 medium, and 3 small pieces from the bag. Place these in a line between the two players. If using playing cards, lay the playing cards face down in a line first and place the pieces on top of them, one piece per card. These are the nine segments of river you'll be battling for.
+- Each player draws a large, a medium, and a small. This forms their hand.
 - Choose a player to go first.
 
 ## Gameplay
 - Players take turns
 - On your turn you do the following, in order:
-  - You must play a piece from your hand to an unclaimed segment of river, if possible
-  - You may claim a segment of river 
-  - You must draw a replacement piece, if possible
+  - You **must** play a piece from your hand to an unclaimed segment of river, if possible
+  - You **may** claim a segment of river 
+  - You **must** draw a replacement piece, if possible
 
 ### Playing a Piece
 - To play a piece from your hand, move one piece from your hand to an available spot on your side of an unclaimed river segment. Each river segment has space for 2 pieces on either side. If you have already played 2 pieces to a river segment, you may not play a third. If your opponent has already claimed a river segment, you may no longer play any pieces to that segment.
@@ -30,12 +30,12 @@
 - If you have played two pieces to a river segment, you might be able to claim it.
 - You may only claim **one** river segment per turn, and you may only claim after playing a piece from your hand and before drawing a replacement piece. It does not need to be the river segment you just played a piece to.
 - For the purposes of claiming river segments, you are comparing the strength of the set of your three pieces (the two you've played + the river piece) against the strength of the set of your opponent's pieces (the ones they've played + the river piece) for that segment.
-- If you are able to prove that your opponent would be unable to produce a stronger set than the one you've played, you may claim that segment.
+- If you are able to prove that your opponent would be unable to produce a **stronger** set than the one you've played, you may claim that segment.
 - When you claim a segment, move the river piece (and its card) back behind your pieces, as though you are playing it as a third piece. This makes it clear that the segment is no longer in dispute.
-- The strength of a set of three pieces is determined by ... link here
+- The relative strength of three-piece sets is described in the section [Comparing Sets of Pieces](#comparing-sets-of-pieces)
 
 ### Draw Replacement Piece
-- Draw a piece to replace the one you played. It must be the same size.
+- Draw a piece to replace the one you played. It must be the **same size**.
 - If there are no more pieces available of that size, you continue playing with a diminished hand size.
 
 ## Game End
@@ -45,7 +45,7 @@ The game ends immediately when one player has either:
 That player is the winner.
 
 ## Comparing Sets of Pieces
-- Sets of three pieces are evaluated based on their strength to establish river segment claims. The set type takes precedence, followed by size, and finally: color. The set types are as follows, in order from best to worst:
+- Sets of three pieces are evaluated based on their strength to establish river segment claims. The set type takes precedence, followed by size, and finally (for monochrome sets only): color. The set types are as follows, in order from best to worst:
   - Monochrome triplet: Three identical pieces of the same size and color
   - Monochrome run: Three pieces in the same color, all different sizes
   - Monochrome pair: Two pieces of the same size and color, with a third piece of any size or color.
