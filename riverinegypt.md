@@ -73,7 +73,7 @@ In the case of a non-monochrome set, color does not matter, and it is only a mat
 ## Variants
 
 ### Three Player Variant: Confluence
-Instead of fighting for 9 segments, each player fights for 6 segments, 3 against each other player. Lay out three river segments between each pair of players (DIAGRAM HERE). Play proceeds identically to the 2 player game, but the win conditions are different. Continue play until all river segments have been claimed.
+Instead of fighting for 9 segments, each player fights for 6 segments, 3 against each other player. Lay out three river segments between each pair of players. Play proceeds identically to the 2 player game, but the win conditions are different. Continue play until all river segments have been claimed.
 
 If one player has won more segments than both their opponents, they are the winner, eg, Anna won 2 segments against Betty and also 2 segments against Constance.
 In the event of a three-way tie, players form sets from the three river segments the each won. Whichever player has the strongest set of river pieces is the winner. In the unlikely event that there is still a tie, victory is shared.
