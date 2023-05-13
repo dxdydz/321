@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="805.25757mm"
+   height="521.04926mm"
+   viewBox="0 0 805.25755 521.04935"
+   version="1.1"
+   id="svg7252"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="river_setup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7254"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.18618827"
+     inkscape:cx="1353.4687"
+     inkscape:cy="843.23249"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7249" />
+<rect width="100%" height="100%" fill="white"/>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(298.63268,321.42223)">
+    <g
+       id="g135049"
+       style="fill:#cccccc"
+       transform="translate(-96.241851,163.18083)">
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335"
+         width="63.872654"
+         height="89.421715"
+         x="-41.883667"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-0"
+         width="63.872654"
+         height="89.421715"
+         x="38.050549"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-7"
+         width="63.872654"
+         height="89.421715"
+         x="117.98476"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-2"
+         width="63.872654"
+         height="89.421715"
+         x="197.91898"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-4"
+         width="63.872654"
+         height="89.421715"
+         x="-121.81789"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-9"
+         width="63.872654"
+         height="89.421715"
+         x="-201.75211"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-92"
+         width="63.872654"
+         height="89.421715"
+         x="277.85321"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-3"
+         width="63.872654"
+         height="89.421715"
+         x="357.78741"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+      <rect
+         style="fill:#cccccc;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27745;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect134335-6"
+         width="63.872654"
+         height="89.421715"
+         x="437.72162"
+         y="-274.03796"
+         rx="6.3499999"
+         ry="6.3499999" />
+    </g>
+    <g
+       id="g98198-0"
+       transform="translate(-120.14348,-397.45204)">
+      <rect
+         style="fill:#0c0c0c;fill-opacity:0.992157;stroke:#0e0e0e;stroke-width:0.683379;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.996078;stop-color:#000000"
+         id="rect96990-6-8-0-1"
+         width="13.667622"
+         height="13.667621"
+         x="166.88988"
+         y="82.692505" />
+      <g
+         id="g2034-9-7-2-5-52-4"
+         transform="matrix(0.10273001,0,0,0.10273001,171.15732,29.109832)"
+         style="fill:#ffffff"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path1198-1-0-7-5-7-3"
+           style="fill:#ffffff;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,549.71557 c 0,0 -20.0411721,15.62842 -27.1254761,27.81085 -19.5921679,33.69143 18.3148031,44.73461 27.1254761,23.0104 8.810672,21.72421 46.718161,10.68103 27.125993,-23.0104 -7.084306,-12.18243 -27.125993,-27.81085 -27.125993,-27.81085 z" />
+        <path
+           id="path1890-2-9-0-4-66-5"
+           style="fill:#ffffff;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+      </g>
+    </g>
+    <g
+       id="g98000-0-6"
+       transform="translate(153.91028,-242.06341)">
+      <rect
+         style="fill:#0c0c0c;fill-opacity:0.992157;stroke:#0e0e0e;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.996078;stop-color:#000000"
+         id="rect96990-7-2"
+         width="25.4"
+         height="25.4"
+         x="46.937408"
+         y="163.21713" />
+      <g
+         id="g2034-9-7-2-5-5-3-7"
+         transform="matrix(0.10273001,0,0,0.10273001,57.071043,115.50064)"
+         style="fill:#ffffff"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path1198-1-0-7-5-3-7-0"
+           style="fill:#ffffff;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,549.71557 c 0,0 -20.0411721,15.62842 -27.1254761,27.81085 -19.5921679,33.69143 18.3148031,44.73461 27.1254761,23.0104 8.810672,21.72421 46.718161,10.68103 27.125993,-23.0104 -7.084306,-12.18243 -27.125993,-27.81085 -27.125993,-27.81085 z" />
+        <path
+           id="path1890-2-9-0-4-7-1-7"
+           style="fill:#ffffff;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+      </g>
+      <g
+         id="g2034-9-7-2-5-3-8-6"
+         transform="matrix(0.10273001,0,0,0.10273001,48.604377,107.03397)"
+         style="fill:#ffffff"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path1198-1-0-7-5-2-4-7"
+           style="fill:#ffffff;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,549.71557 c 0,0 -20.0411721,15.62842 -27.1254761,27.81085 -19.5921679,33.69143 18.3148031,44.73461 27.1254761,23.0104 8.810672,21.72421 46.718161,10.68103 27.125993,-23.0104 -7.084306,-12.18243 -27.125993,-27.81085 -27.125993,-27.81085 z" />
+        <path
+           id="path1890-2-9-0-4-8-7-4"
+           style="fill:#ffffff;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+      </g>
+      <g
+         id="g2034-9-7-2-5-30-6-3"
+         transform="matrix(0.10273001,0,0,0.10273001,65.537715,123.96731)"
+         style="fill:#ffffff"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path1198-1-0-7-5-8-8-1"
+           style="fill:#ffffff;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,549.71557 c 0,0 -20.0411721,15.62842 -27.1254761,27.81085 -19.5921679,33.69143 18.3148031,44.73461 27.1254761,23.0104 8.810672,21.72421 46.718161,10.68103 27.125993,-23.0104 -7.084306,-12.18243 -27.125993,-27.81085 -27.125993,-27.81085 z" />
+        <path
+           id="path1890-2-9-0-4-6-9-2"
+           style="fill:#ffffff;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+      </g>
+    </g>
+    <g
+       id="g134236-6"
+       transform="translate(-99.144451,133.80888)">
+      <rect
+         style="fill:#ffff00;fill-opacity:0.992157;stroke:#ffff00;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-4-1"
+         width="25.4"
+         height="25.4"
+         x="93.700699"
+         y="39.783173" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-9-1"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,59.431382,-87.727856)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-2-4-2"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,50.964715,-96.194528)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-4-2-8"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,67.898053,-79.261194)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+    </g>
+    <g
+       id="g134241-46"
+       transform="translate(-109.16856,-353.61626)">
+      <rect
+         style="fill:#ffff00;fill-opacity:0.992157;stroke:#ffff00;stroke-width:0.949473;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-6-9"
+         width="18.989523"
+         height="18.989527"
+         x="128.27901"
+         y="36.596325" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-3-3-9"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,86.05707,-98.867332)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-6-7-78"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,95.551836,-89.372581)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+    </g>
+    <g
+       id="g134241-4"
+       transform="translate(-323.89718,-112.23736)">
+      <rect
+         style="fill:#ffff00;fill-opacity:0.992157;stroke:#ffff00;stroke-width:0.949473;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-6-7"
+         width="18.989523"
+         height="18.989527"
+         x="128.27901"
+         y="36.596325" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-3-3-5"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,86.05707,-98.867332)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-6-7-5"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,95.551836,-89.372581)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+    </g>
+    <g
+       id="g134241-8"
+       transform="translate(-84.094536,-112.23736)">
+      <rect
+         style="fill:#ffff00;fill-opacity:0.992157;stroke:#ffff00;stroke-width:0.949473;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-6-0"
+         width="18.989523"
+         height="18.989527"
+         x="128.27901"
+         y="36.596325" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-3-3-7"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,86.05707,-98.867332)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-6-7-7"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,95.551836,-89.372581)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+    </g>
+    <g
+       id="g134245-3"
+       transform="translate(-279.31164,-109.92814)">
+      <rect
+         style="fill:#ffff00;fill-opacity:0.992157;stroke:#ffff00;stroke-width:0.683379;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-8-4-2"
+         width="13.667622"
+         height="13.667621"
+         x="166.28864"
+         y="36.948055" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0.902866;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round"
+         id="path2453-3-3-0-3-0"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="587.96246"
+         sodipodi:cy="1760.2688"
+         sodipodi:r1="53.465466"
+         sodipodi:r2="26.732733"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07988489,0,0,0.07988489,126.15314,-96.429152)"
+         inkscape:transform-center-y="-0.34801482"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 587.96246,1706.8033 15.71311,31.8383 35.13557,5.1055 -25.42434,24.7826 6.00187,34.9936 -31.42621,-16.5218 -31.42621,16.5218 6.00187,-34.9936 -25.42434,-24.7826 35.13558,-5.1055 z" />
+    </g>
+    <g
+       id="g134249-7"
+       transform="translate(-39.864265,-129.82289)">
+      <rect
+         style="fill:#5599ff;fill-opacity:0.992157;stroke:#5599ff;stroke-width:0.683379;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-8-43-8"
+         width="13.667622"
+         height="13.667621"
+         x="166.64391"
+         y="56.8428" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-22-2"
+         width="4.9999757"
+         height="5.0000606"
+         x="176.83861"
+         y="-100.16019"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g134260-3"
+       transform="translate(-109.53608,-387.39542)">
+      <rect
+         style="fill:#5599ff;fill-opacity:0.992157;stroke:#5599ff;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-1-3"
+         width="25.4"
+         height="25.4"
+         x="92.034302"
+         y="66.608192" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-3-6-6"
+         width="4.9999757"
+         height="5.0000606"
+         x="119.79164"
+         y="-33.922752"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-8-1-4"
+         width="4.9999757"
+         height="5.0000606"
+         x="131.98131"
+         y="-35.252148"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-2-6-98"
+         width="4.9999757"
+         height="5.0000606"
+         x="144.17096"
+         y="-36.581566"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g134275-0"
+       transform="translate(200.22531,-162.77785)">
+      <rect
+         style="fill:#ff2a2a;fill-opacity:0.992157;stroke:#ff2929;stroke-width:0.683379;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-8-9-7"
+         width="13.667622"
+         height="13.667621"
+         x="166.35698"
+         y="89.797768" />
+      <path
+         id="path1198-1-0-9-6-8-5-1"
+         style="fill:#000000;stroke:none;stroke-width:0.0247563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.19081,99.817415 c 0,0 2.05884,-1.60551 2.7866,-2.85701 2.01271,-3.46112 -1.88148,-4.59558 -2.7866,-2.36386 -0.90512,-2.23172 -4.79935,-1.09726 -2.78665,2.36386 0.72777,1.2515 2.78665,2.85701 2.78665,2.85701 z"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g134271-8"
+       transform="translate(-104.66396,82.55521)">
+      <rect
+         style="fill:#ff2a2a;fill-opacity:0.992157;stroke:#ff2929;stroke-width:0.949473;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-1-71"
+         width="18.989523"
+         height="18.989527"
+         x="133.85393"
+         y="94.242081" />
+      <path
+         id="path1198-1-0-9-6-8-7-6-0"
+         style="fill:#000000;stroke:none;stroke-width:0.0247563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 138.60132,102.17529 c 0,0 2.05884,-1.60551 2.7866,-2.857011 2.01271,-3.46112 -1.88148,-4.59558 -2.7866,-2.36386 -0.90512,-2.23172 -4.79935,-1.09726 -2.78665,2.36386 0.72777,1.251501 2.78665,2.857011 2.78665,2.857011 z"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1198-1-0-9-6-8-0-0-1"
+         style="fill:#000000;stroke:none;stroke-width:0.0247563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 148.09608,111.67004 c 0,0 2.05884,-1.60551 2.7866,-2.85701 2.01271,-3.46112 -1.88148,-4.59558 -2.7866,-2.36386 -0.90511,-2.23172 -4.79934,-1.09726 -2.78664,2.36386 0.72777,1.2515 2.78664,2.85701 2.78664,2.85701 z"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g134271-3"
+       transform="translate(150.1332,-169.88312)">
+      <rect
+         style="fill:#ff2a2a;fill-opacity:0.992157;stroke:#ff2929;stroke-width:0.949473;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-6-1-7"
+         width="18.989523"
+         height="18.989527"
+         x="133.85393"
+         y="94.242081" />
+      <path
+         id="path1198-1-0-9-6-8-7-6-7"
+         style="fill:#000000;stroke:none;stroke-width:0.0247563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 138.60132,102.17529 c 0,0 2.05884,-1.60551 2.7866,-2.857011 2.01271,-3.46112 -1.88148,-4.59558 -2.7866,-2.36386 -0.90512,-2.23172 -4.79935,-1.09726 -2.78665,2.36386 0.72777,1.251501 2.78665,2.857011 2.78665,2.857011 z"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1198-1-0-9-6-8-0-0-9"
+         style="fill:#000000;stroke:none;stroke-width:0.0247563px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 148.09608,111.67004 c 0,0 2.05884,-1.60551 2.7866,-2.85701 2.01271,-3.46112 -1.88148,-4.59558 -2.7866,-2.36386 -0.90511,-2.23172 -4.79934,-1.09726 -2.78664,2.36386 0.72777,1.2515 2.78664,2.85701 2.78664,2.85701 z"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g134311-5"
+       transform="translate(-145.7027,-207.03318)">
+      <g
+         id="g125326-1">
+        <rect
+           style="fill:#8dd35f;fill-opacity:0.992157;stroke:#8dd45f;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+           id="rect96990-60-7"
+           width="25.4"
+           height="25.4"
+           x="106.74773"
+           y="128.1869" />
+        <g
+           id="g4168-7-04-3"
+           transform="matrix(0.37078056,0,0,0.37078056,18.393959,-137.04982)"
+           inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             id="g2034-9-7-0-3-03-0"
+             transform="matrix(0.27706418,0,0,0.27706418,242.69805,563.82027)"
+             style="fill:#000000">
+            <path
+               id="path1198-1-0-3-6-20-8"
+               style="fill:#000000;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,549.71557 c -14.617079,-0.11401 -28.3975069,15.48427 -7.974776,36.21323 -56.709147,-9.63922 -12.3242961,60.93612 7.974776,14.60802 15.206883,43.89269 68.329297,-24.67269 8.897293,-15.73011 18.175568,-17.82231 5.719786,-34.97713 -8.897293,-35.09114 z"
+               sodipodi:nodetypes="zcccz" />
+            <path
+               id="path1890-2-9-6-1-86-5"
+               style="fill:#000000;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+          </g>
+        </g>
+        <g
+           id="g4168-7-0-9-4"
+           transform="matrix(0.37078056,0,0,0.37078056,26.860627,-128.58315)"
+           inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             id="g2034-9-7-0-3-0-9-3"
+             transform="matrix(0.27706418,0,0,0.27706418,242.69805,563.82027)"
+             style="fill:#000000">
+            <path
+               id="path1198-1-0-3-6-7-2-9"
+               style="fill:#000000;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,549.71557 c -14.617079,-0.11401 -28.3975069,15.48427 -7.974776,36.21323 -56.709147,-9.63922 -12.3242961,60.93612 7.974776,14.60802 15.206883,43.89269 68.329297,-24.67269 8.897293,-15.73011 18.175568,-17.82231 5.719786,-34.97713 -8.897293,-35.09114 z"
+               sodipodi:nodetypes="zcccz" />
+            <path
+               id="path1890-2-9-6-1-2-3-4"
+               style="fill:#000000;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+          </g>
+        </g>
+        <g
+           id="g4168-7-3-5-6"
+           transform="matrix(0.37078056,0,0,0.37078056,35.327298,-120.11649)"
+           inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             id="g2034-9-7-0-3-1-4-2"
+             transform="matrix(0.27706418,0,0,0.27706418,242.69805,563.82027)"
+             style="fill:#000000">
+            <path
+               id="path1198-1-0-3-6-0-8-3"
+               style="fill:#000000;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,549.71557 c -14.617079,-0.11401 -28.3975069,15.48427 -7.974776,36.21323 -56.709147,-9.63922 -12.3242961,60.93612 7.974776,14.60802 15.206883,43.89269 68.329297,-24.67269 8.897293,-15.73011 18.175568,-17.82231 5.719786,-34.97713 -8.897293,-35.09114 z"
+               sodipodi:nodetypes="zcccz" />
+            <path
+               id="path1890-2-9-6-1-7-1-8"
+               style="fill:#000000;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g134283-0"
+       transform="translate(-111.38434,53.32512)">
+      <g
+         id="g125344-7">
+        <rect
+           style="fill:#8dd35f;fill-opacity:0.992157;stroke:#8dd45f;stroke-width:0.683379;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+           id="rect96990-6-8-6-9"
+           width="13.667622"
+           height="13.667621"
+           x="166.17935"
+           y="126.74514" />
+        <g
+           id="g4168-7-34-4-0"
+           transform="matrix(0.37078056,0,0,0.37078056,80.426061,-135.8911)"
+           inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <g
+             id="g2034-9-7-0-3-4-9-7"
+             transform="matrix(0.27706418,0,0,0.27706418,242.69805,563.82027)"
+             style="fill:#000000">
+            <path
+               id="path1198-1-0-3-6-2-8-6"
+               style="fill:#000000;stroke:none;stroke-width:0.240984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,549.71557 c -14.617079,-0.11401 -28.3975069,15.48427 -7.974776,36.21323 -56.709147,-9.63922 -12.3242961,60.93612 7.974776,14.60802 15.206883,43.89269 68.329297,-24.67269 8.897293,-15.73011 18.175568,-17.82231 5.719786,-34.97713 -8.897293,-35.09114 z"
+               sodipodi:nodetypes="zcccz" />
+            <path
+               id="path1890-2-9-6-1-4-4-9"
+               style="fill:#000000;stroke:none;stroke-width:0.241417px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 24.981421,598.24525 c -0.132615,16.7163 -8.409215,28.25805 -8.409215,28.25805 h 8.409215 8.409215 c 0,0 -8.276601,-11.54175 -8.409215,-28.25805 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g134260-9"
+       transform="translate(-370.79193,-145.45447)">
+      <rect
+         style="fill:#5599ff;fill-opacity:0.992157;stroke:#5599ff;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.992157;stop-color:#000000"
+         id="rect96990-1-6"
+         width="25.4"
+         height="25.4"
+         x="92.034302"
+         y="66.608192" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-3-6-0"
+         width="4.9999757"
+         height="5.0000606"
+         x="119.79164"
+         y="-33.922752"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-8-1-9"
+         width="4.9999757"
+         height="5.0000606"
+         x="131.98131"
+         y="-35.252148"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;fill-opacity:0.987447;stroke:none;stroke-width:0.419935;stroke-linecap:round;stroke-linejoin:round"
+         id="rect4381-7-9-2-6-9"
+         width="4.9999757"
+         height="5.0000606"
+         x="144.17096"
+         y="-36.581566"
+         transform="matrix(0.62627616,0.77960129,-0.62627616,0.77960129,0,0)"
+         inkscape:export-filename="/home/spencer/doodles/icehouseesuits.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.27, 10.16;stroke-dashoffset:0;stroke-opacity:0.992157;stop-color:#000000"
+       id="rect135253"
+       width="703.59351"
+       height="142.26961"
+       x="-297.99396"
+       y="1.1740093"
+       rx="19.049999"
+       ry="19.049999" />
+    <rect
+       style="fill:none;fill-opacity:0.992157;stroke:#000000;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.27, 10.16;stroke-dashoffset:0;stroke-opacity:0.992157;stop-color:#000000"
+       id="rect135253-4"
+       width="703.59351"
+       height="142.26961"
+       x="-293.96198"
+       y="-276.69119"
+       rx="19.049999"
+       ry="19.049999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="440.81802"
+       y="-57.803699"
+       id="text137341"><tspan
+         sodipodi:role="line"
+         id="tspan137339"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="440.81802"
+         y="-57.803699">River</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.742355"
+       y="-298.98145"
+       id="text137341-5"><tspan
+         sodipodi:role="line"
+         id="tspan137339-5"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="78.742355"
+         y="-298.98145">Player 2's starting hand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.990311"
+       y="192.93109"
+       id="text137341-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan137339-5-8"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="82.990311"
+         y="192.93109">Player 1's starting hand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-101.94737"
+       y="81.729179"
+       id="text137341-9"><tspan
+         sodipodi:role="line"
+         id="tspan137339-4"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="-101.94737"
+         y="81.729179">(where player 1 plays to)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-107.9155"
+       y="-198.3615"
+       id="text137341-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan137339-4-8"
+         style="font-size:25.4px;stroke-width:0.264583"
+         x="-107.9155"
+         y="-198.3615">(where player 2 plays to)</tspan></text>
+  </g>
+</svg>
