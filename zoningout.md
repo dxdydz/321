@@ -74,7 +74,7 @@ This variant is good for a quicker, more relaxed game. Play with only 2 trios pe
 
 ## Special Scoring Rules
 
-During your game you will be playing with three of the special scoring rules listed below. For the solo and co-operative game modes, a target score is listed. Your goal is to build a city that scores as much or more than the target scores of all three special scoring rules added together. For convenince, the titles of the rules are also listed in this table here with links to the rules themselves. 
+During your game you will be playing with three of the special scoring rules listed below. For the solo and co-operative game modes, a target score is listed. Your goal is to build a city that scores as much or more than the target scores of all three special scoring rules added together. For convenince, the titles of the rules are also listed in here with links to the rules themselves. To randomly select scoring rules, you could write these titles on slips of paper and draw three from a hat.
 
 [15-Minute City](#15-minute-city) | [Density Bonusing](#density-bonusing) | [Rainbow Rows](#rainbow-rows) |
 [Colorful Columns](#colorful-columns) | [Overshadowed](#overshadowed) | [Little Boxes](#little-boxes) |
