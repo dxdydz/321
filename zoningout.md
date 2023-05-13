@@ -265,6 +265,8 @@ For this game, you may place a second piece on top of an existing piece when pla
 
 **Target Score**: 17
 
+---
+
 ## Scoring Sheet
 
 You can use this table as a template for calculating your scores:
