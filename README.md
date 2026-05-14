@@ -7,4 +7,4 @@
 2. [A River in Egypt](riverinegypt.md) is a cut-throat battle of luck, logic, and denial for two or three players.
 3. [Love Triangle](lovetriangle.md) is a lightweight dice-rolling affair of chained incentives for three players.
 
-All games designed by Spencer Cappallo, though **Zoning Out** and **A River in Egypt** owe great debts to **Sprawlopolis** and **Schotten-Totten**.
+All games designed by Zoe Cappallo, though **Zoning Out** and **A River in Egypt** owe great debts to **Sprawlopolis** and **Schotten-Totten**.
