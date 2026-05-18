@@ -221,7 +221,7 @@ When playing with this card, large pieces may be placed adjacent to other large 
 
 <img src="images/lines_of_sight.svg" width=300>
 
-1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less or more than 2 large pieces in it.
+1 point for every row or column with exactly two large pieces in it. -2 points for any row or column with less (but not 0) or more than 2 large pieces in it.
 
 **Target Score**: 4
 
